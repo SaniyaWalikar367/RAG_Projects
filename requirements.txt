@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langgraph
+streamlit
+wikipedia
+dotenv
+python-dotenv
+faiss-cpu
+sentence-transformers
+transformers
+torch
+langchain-text-splitters
+langchain-faiss
